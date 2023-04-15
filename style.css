@@ -1,0 +1,17 @@
+  
+#family_member_name{
+    font-size: 25px;
+}
+
+#button_next{
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+}
+
+body{
+    background-color: powderblue;
+}
